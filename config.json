@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionsalidate",
+        "uuid": 1333776,
+        "checksum": "jdwxlc"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
